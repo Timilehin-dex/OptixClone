@@ -154,6 +154,7 @@ a {
   padding-bottom: 130px;
 }
 .second .one {
+  width: 100%;
   padding: 50px 30px;
   background-color: var(--first-color);
   border-radius: 16px;
